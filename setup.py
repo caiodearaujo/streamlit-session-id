@@ -1,11 +1,11 @@
 import setuptools
 
 setuptools.setup(
-    name="streamlit-custom-component",
+    name="streamlit-session-id",
     version="0.0.1",
-    author="",
-    author_email="",
-    description="",
+    author="Caio Fabio de Araujo",
+    author_email="caiofaar@gmail.com",
+    description="Create a session id for Streamlit",
     long_description="",
     long_description_content_type="text/plain",
     url="",
